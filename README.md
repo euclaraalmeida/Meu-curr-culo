@@ -18,4 +18,4 @@ Este projeto utiliza as seguintes tecnologias:
 
 ## 👨‍💻 Developers
 
-- [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/seu-usuario) Seu Nome
+- [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/euclaraalmeida)Maria Clara Almeida
