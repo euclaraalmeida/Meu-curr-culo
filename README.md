@@ -7,7 +7,7 @@ Este projeto é um currículo simples desenvolvido em HTML e CSS. O objetivo é 
 O currículo contém as seguintes seções:
 - **📝 Nome**: Maria Clara Almeida
 - **🎓 Curso**: Sitemas para internet
-- **📅 Período**: P1
+- **📅 Período**: P3
 - **📚 Cursos Adicionais**:Guia Básico de Git e GitHub
 
 ## 🛠️ Tecnologias Utilizadas
